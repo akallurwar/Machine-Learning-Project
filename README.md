@@ -1,3 +1,3 @@
-# Machine-Learning-with-Python
+# Machine-Learning
 
 ![](ml2.jpg)
