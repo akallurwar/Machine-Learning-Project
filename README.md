@@ -1,3 +1,3 @@
-# Machine-Learning
+# Machine-Learning-Project
 
 ![](ml2.jpg)
